@@ -6,7 +6,7 @@ This is the first piece of **Sip Trail**, the guide to Pampanga's cafés, milk t
 
 ## Before you start
 
-Start the activity with the shared-lab launcher, exactly as in M1A0: follow the [setup guide](SETUP.md) to download and run `start-activity.sh` in Mac Terminal or Windows Git Bash, then clone your private repository `m2a2-CLASSCODE-USERNAME` in VS Code. Check the branch, remote and author before you start. Then install the test tools once:
+Start the activity with the shared-lab launcher, exactly as in M1A0: follow the [setup guide](SETUP.md) to run the Mac launcher in Terminal or the Windows launcher in PowerShell, then clone your private repository `m2a2-CLASSCODE-USERNAME` in VS Code. Check the branch, remote and author before you start. Then install the test tools once:
 
 ```sh
 npm ci
